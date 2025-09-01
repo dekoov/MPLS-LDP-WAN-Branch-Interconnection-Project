@@ -132,48 +132,73 @@ Sucursal - 172.16.0.0/20
 ---
 
 DHCP
+
 ![](https://i.imgur.com/u3znfHU.png)
 
+
 ACL
+
 ![](https://i.imgur.com/db3F7PT.png)
 
+
 EtherChannel
+
 ![](https://i.imgur.com/NnAMpSu.png)
 
+
 HSRP
+
 ![](https://i.imgur.com/dJzAeO2.png)
 
 ![](https://i.imgur.com/wYv9J7N.png)
 
+
 DNS
+
 ![](https://i.imgur.com/4wzDy0h.png)
 
+
 VLANs
+
 ![](https://i.imgur.com/Ay8jZEY.png)
 
 ![](https://i.imgur.com/ycOrv1u.png)
 
-BGP:
+
+BGP
+
 ![](https://i.imgur.com/bfNpmpN.png)
 
 ![](https://i.imgur.com/PwBv4Fs.png)
 
+
 OSPF
+
 ![](https://i.imgur.com/6urO6gt.png)
 
+
 Marcaje LSP
+
 ![](https://i.imgur.com/MKJqoBp.png)
 
+
 LDP
+
 ![](https://i.imgur.com/MoScATZ.png)
 
+
 iBGP VPNv4
+
 ![](https://i.imgur.com/9gf0Zjb.png)
 
+
 VRF
+
 ![](https://i.imgur.com/Bi3dmGN.png)
 
+
 ACL y Acceso a Web Server desde Sucursal
+
 ![](https://i.imgur.com/357HGy4.png)
 
 
